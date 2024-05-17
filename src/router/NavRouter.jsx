@@ -2,7 +2,7 @@ import React from 'react';
 import {BrowserRouter, Route, Routes} from "react-router-dom";
 import {Home} from "../views/Home";
 import {Proveedores} from "../components/Proveedores";
-import {Productos} from "../views/Productos";
+import {Productos} from "../components/Productos";
 import {NotFound} from "../components/NotFound";
 
 export const NavRouter = () => {

@@ -10,7 +10,7 @@ export const Home = () => {
                     </div>
                     <div className="container text-center">
                         <div className="d-flex flex-column justify-content-center align-items-center">
-                            <h1 data-aos="fade-up" className="">Bienvenidos to <span>Ibague Vende</span></h1>
+                            <h1 data-aos="fade-up" className="">Bienvenidos a <span>Ibague Vende</span></h1>
                             <div className="d-flex" data-aos="fade-up" data-aos-delay="200">
                                 <a href="/proveedores" className="btn-get-started">Buscar proveedor</a>
                             </div>

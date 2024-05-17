@@ -13,10 +13,9 @@ export const Header = () => {
 
                 <nav id="navmenu" className="navmenu">
                     <ul>
-                        <li><a href="/#hero" className="">Inicio</a></li>
-                        <li><a href="/#about">Vendedores</a></li>
-                        <li><a href="/#features">Productos</a></li>
-                        <li><a href="/#services">Servicios</a></li>
+                        <li><a href="/" className="">Inicio</a></li>
+                        <li><a href="/proveedores">Proveedores</a></li>
+                        <li><a href="/productos">Productos</a></li>
                     </ul>
                     <i className="mobile-nav-toggle d-xl-none bi bi-list"></i>
                 </nav>
